@@ -1,0 +1,2 @@
+# Amazon-Fine-Food-Sentiment
+I worked on kaggle kernel on Amazon Fine Food Reviews dataset and applied all the text cleaning, preprocessing and model fitting steps. I cleaned the deduplicated data after which nearly about 69% of original data remained. I applied preprocessor and tokenizer to remove stopwords and emoctions etc.. I used bag of words model and tfidf models to separate out the most useful words. Then I created a pipeline and evaluated the dataset on a logistic regression model to get accuracy of 93.24%%
